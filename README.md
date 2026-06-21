@@ -21,16 +21,6 @@
 
 ### 🧾 About Me
 
-```sql
-SELECT  name, role, location
-FROM    professionals
-WHERE   username = 'Dhanushram0310'
-  AND   expertise IN ('ServiceNow Administration',
-                       'ITAM Implementation',
-                       'CMDB Management',
-                       'Data Analysis');
-
-/*
   name      : Dhanushram S
   role      : ServiceNow Administrator | ITAM Specialist | Data Analyst
   location  : Coimbatore, Tamil Nadu, India
@@ -38,8 +28,6 @@ WHERE   username = 'Dhanushram0310'
   education : B.Com (Computer Applications), Karpagam Academy of Higher Education
   stack     : ServiceNow, CMDB, HAM & SAM Pro, SQL, Advanced Excel
   motto     : 'Turning data into decisions, and assets into accountability.'
-*/
-```
 
 ---
 
