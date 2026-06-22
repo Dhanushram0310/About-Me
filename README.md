@@ -21,13 +21,13 @@
 
 ### 🧾 About Me
 
-  name      : Dhanushram S
-  role      : ServiceNow Administrator | ITAM Specialist | Data Analyst
+  Name      : Dhanushram S
+  Role      : ServiceNow Administrator | ITAM Specialist | Data Analyst
   location  : Coimbatore, Tamil Nadu, India
   experience: 2+ years across ITAM, ServiceNow Administration & ITSM
-  education : B.Com (Computer Applications), Karpagam Academy of Higher Education
-  stack     : ServiceNow, CMDB, HAM & SAM Pro, SQL, Advanced Excel
-  motto     : 'Turning data into decisions, and assets into accountability.'
+  Education : B.Com (Computer Applications), Karpagam Academy of Higher Education
+  Stack     : ServiceNow, CMDB, HAM & SAM Pro, SQL, Advanced Excel
+  Motto     : 'Turning data into decisions, and assets into accountability.'
 
 ---
 
